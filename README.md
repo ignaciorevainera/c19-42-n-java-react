@@ -112,8 +112,10 @@ Adoptify es una plataforma destinada a facilitar la adopción de mascotas, conec
 
 ## <span id="links">🔗 Enlaces del Proyecto</span>
 
-[Repositorio en GitHub](https://github.com/tu-repositorio)
+[Repositorio en la Comunidad de No Country (antiguo)](https://github.com/No-Country-simulation/c19-42-n-java-react/)
+[Repositorio Oficial (activo)](https://github.com/ignaciorevainera/c19-42-n-java-react/)
 
-[Despliegue del Proyecto (En Desarrollo)](https://tu-deploy-en-desarrollo.com)
+[Despliegue del Proyecto](https://c19-42-n-java-react.vercel.app/)
+[Despliegue del Backend del Proyecto](https://c19-42-n-java-react.vercel.app/)
 
 <p align="right">(<a href="#readme-top">ir arriba</a>)</p>
