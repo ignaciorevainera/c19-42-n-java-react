@@ -19,6 +19,12 @@ Adoptify es una plataforma destinada a facilitar la adopción de mascotas, conec
 
 <p align="right">(<a href="#readme-top">ir arriba</a>)</p>
 
+### <span id="description">Adaptado a pantallas de todo tipo!</span>
+![592shots_so](https://github.com/user-attachments/assets/9836356a-7ca4-4d6a-bae7-8443dec945ba)
+
+### <span id="description">Backend desplegado</span>
+![844shots_so](https://github.com/user-attachments/assets/964ac696-fbd2-4ba3-b71f-ca423e9ff755)
+
 ## <span id="collaborators">🤝 Colaboradores</span>
 
 <table align="center">
