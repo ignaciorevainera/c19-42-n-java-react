@@ -1,3 +1,3 @@
 export const AppSettings = {
-	apiURL: 'http://localhost:8060/',
+	apiURL: 'https://nocountrydeployapigateway.onrender.com/',
 };
