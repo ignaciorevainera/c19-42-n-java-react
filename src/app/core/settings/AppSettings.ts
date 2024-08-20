@@ -1,3 +1,3 @@
 export const AppSettings = {
-	apiURL: 'https://nocountrydeployapigateway.onrender.com/',
+	apiURL: 'http://vps-4301105-x.dattaweb.com/',
 };
